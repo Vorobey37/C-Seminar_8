@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\bin\Debug\net6.0\Change_Rows.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\bin\Debug\net6.0\Change_Rows.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\bin\Debug\net6.0\Change_Rows.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\bin\Debug\net6.0\Change_Rows.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\bin\Debug\net6.0\Change_Rows.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\refint\Change_Rows.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\Change_Rows.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows\obj\Debug\net6.0\ref\Change_Rows.dll
