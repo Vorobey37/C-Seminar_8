@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\bin\Debug\net6.0\Change_Rows_And_Columns.exe
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\bin\Debug\net6.0\Change_Rows_And_Columns.deps.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\bin\Debug\net6.0\Change_Rows_And_Columns.runtimeconfig.json
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\bin\Debug\net6.0\Change_Rows_And_Columns.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\bin\Debug\net6.0\Change_Rows_And_Columns.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\refint\Change_Rows_And_Columns.dll
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.pdb
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\Change_Rows_And_Columns.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Занятия по C#\Семинары по C#\Seminar_8\Change_Rows_And_Columns\obj\Debug\net6.0\ref\Change_Rows_And_Columns.dll

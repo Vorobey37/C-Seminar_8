@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Change_Rows_And_Columns/1.0.0": {
+        "runtime": {
+          "Change_Rows_And_Columns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Change_Rows_And_Columns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
